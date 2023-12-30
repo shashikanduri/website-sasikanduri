@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/website-sasikanduri/static/css/main.7a8c38ae.css",
-    "main.js": "/website-sasikanduri/static/js/main.3b326479.js",
+    "main.js": "/website-sasikanduri/static/js/main.3dbd1466.js",
     "static/js/787.fb771931.chunk.js": "/website-sasikanduri/static/js/787.fb771931.chunk.js",
     "index.html": "/website-sasikanduri/index.html",
     "main.7a8c38ae.css.map": "/website-sasikanduri/static/css/main.7a8c38ae.css.map",
-    "main.3b326479.js.map": "/website-sasikanduri/static/js/main.3b326479.js.map",
+    "main.3dbd1466.js.map": "/website-sasikanduri/static/js/main.3dbd1466.js.map",
     "787.fb771931.chunk.js.map": "/website-sasikanduri/static/js/787.fb771931.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7a8c38ae.css",
-    "static/js/main.3b326479.js"
+    "static/js/main.3dbd1466.js"
   ]
 }
