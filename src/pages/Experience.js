@@ -54,7 +54,7 @@ function Experience() {
           </h4>
 
           <p style={{fontSize:"16px"}}>
-            Hyderabad, India.
+            Hyderabad, India
           </p>
         </VerticalTimelineElement>
 
@@ -68,7 +68,7 @@ function Experience() {
             Software Engineer - JK Technosoft
           </h4>
           <p style={{fontSize:"16px"}}>
-            Hyderabad, India.
+            Hyderabad, India
           </p>
         </VerticalTimelineElement>
 
@@ -79,10 +79,10 @@ function Experience() {
           icon={<WorkIcon />}
         >
           <h4 className="vertical-timeline-element-title">
-            Associate Engineer - Twitch
+            Associate Engineer - Virtusa
           </h4>
           <p style={{fontSize:"16px"}}>
-            Hyderabad, India.
+            Hyderabad, India
           </p>
         </VerticalTimelineElement>
 
@@ -93,7 +93,7 @@ function Experience() {
           icon={<SchoolIcon />}
         >
           <h4 className="vertical-timeline-element-title">
-            CVR College of Engineering - India.
+            CVR College of Engineering - India
           </h4>
           <p style={{fontSize:"16px"}}>
             Bachelor's Degree.
