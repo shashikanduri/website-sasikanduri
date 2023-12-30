@@ -20,10 +20,10 @@ function Experience() {
           icon={<WorkIcon />}
         >
           <h4 className="vertical-timeline-element-title">
-            Software Engineer - Graduate Student Developer.
+            Software Engineer - Graduate Student Developer
           </h4>
           <p style={{fontSize:"16px"}}>
-            Office of Water Programs, California.
+            Office of Water Programs, California
           </p>
         </VerticalTimelineElement>
 
@@ -35,7 +35,7 @@ function Experience() {
           icon={<SchoolIcon />}
         >
           <h4 className="vertical-timeline-element-title">
-            Sacramento State University, California.
+            Sacramento State University, California
           </h4>
           <h5 className="vertical-timeline-element-subtitle">
             Master's Degree
@@ -96,7 +96,7 @@ function Experience() {
             CVR College of Engineering - India
           </h4>
           <p style={{fontSize:"16px"}}>
-            Bachelor's Degree.
+            Bachelor's Degree
           </p>
         </VerticalTimelineElement>
 
