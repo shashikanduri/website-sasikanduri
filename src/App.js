@@ -1,5 +1,5 @@
 import "./App.css";
-import { BrowserRouter as Router, Routes, Route, useNavigate } from "react-router-dom";
+import { BrowserRouter as Router, Routes, Route, useNavigate, Navigate} from "react-router-dom";
 import Home from "./pages/Home";
 import React, { useEffect } from 'react';
 import Experience from "./pages/Experience";
@@ -7,11 +7,6 @@ import Navbar from "./components/Navbar";
 
 
 function App() {
-  const navigate = useNavigate();
-
-  useEffect(() => {
-    navigate('/');
-  }, [navigate]);
 
   return (
     <div className="App">
@@ -23,6 +18,7 @@ function App() {
         <Routes>
           <Route path="/" element={<Home />} />
           <Route path="/experience" element={<Experience />} />
+          <Route path="*" element={<Navigate to="/" />} />
         </Routes>
       </Router>
     </div>
