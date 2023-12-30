@@ -8,11 +8,6 @@ import Navbar from "./components/Navbar";
 
 function App() {
 
-  const navigate = useNavigate();
-
-  useEffect(() => {
-    navigate('/');
-  }, [navigate]);
 
   return (
     <div className="App">
