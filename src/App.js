@@ -13,9 +13,9 @@ function App() {
       <div id="stars" />
       <div id="stars2" />
       <div id="stars3" />
-      <Navigate to="/" />
       <Router>
         <Navbar />
+        <Home />
         <Routes>
           <Route path="/" element={<Home />} />
           <Route path="/experience" element={<Experience />} />
