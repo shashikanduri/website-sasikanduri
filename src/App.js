@@ -15,7 +15,6 @@ function App() {
       <div id="stars3" />
       <Router>
         <Navbar />
-        <Home />
         <Routes>
           <Route path="/" element={<Home />} />
           <Route path="/experience" element={<Experience />} />
