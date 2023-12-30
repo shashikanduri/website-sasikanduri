@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/website-sasikanduri/static/css/main.7a8c38ae.css",
-    "main.js": "/website-sasikanduri/static/js/main.9543217f.js",
-    "static/js/787.fb771931.chunk.js": "/website-sasikanduri/static/js/787.fb771931.chunk.js",
-    "index.html": "/website-sasikanduri/index.html",
-    "main.7a8c38ae.css.map": "/website-sasikanduri/static/css/main.7a8c38ae.css.map",
-    "main.9543217f.js.map": "/website-sasikanduri/static/js/main.9543217f.js.map",
-    "787.fb771931.chunk.js.map": "/website-sasikanduri/static/js/787.fb771931.chunk.js.map"
+    "main.css": "/static/css/main.7a8c38ae.css",
+    "main.js": "/static/js/main.1a9cd56c.js",
+    "static/js/787.fb771931.chunk.js": "/static/js/787.fb771931.chunk.js",
+    "index.html": "/index.html",
+    "main.7a8c38ae.css.map": "/static/css/main.7a8c38ae.css.map",
+    "main.1a9cd56c.js.map": "/static/js/main.1a9cd56c.js.map",
+    "787.fb771931.chunk.js.map": "/static/js/787.fb771931.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7a8c38ae.css",
-    "static/js/main.9543217f.js"
+    "static/js/main.1a9cd56c.js"
   ]
 }
