@@ -1,12 +1,18 @@
 import "./App.css";
-import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
+import { BrowserRouter as Router, Routes, Route, useNavigate } from "react-router-dom";
 import Home from "./pages/Home";
-
+import React, { useEffect } from 'react';
 import Experience from "./pages/Experience";
 import Navbar from "./components/Navbar";
 
 
 function App() {
+  const navigate = useNavigate();
+
+  useEffect(() => {
+    navigate('/');
+  }, [navigate]);
+
   return (
     <div className="App">
       <div id="stars" />
@@ -15,7 +21,7 @@ function App() {
       <Router>
         <Navbar />
         <Routes>
-          <Route path="/" index element={<Home />} />
+          <Route path="/" element={<Home />} />
           <Route path="/experience" element={<Experience />} />
         </Routes>
       </Router>
