@@ -20,10 +20,11 @@ function Experience() {
           icon={<WorkIcon />}
         >
           <h4 className="vertical-timeline-element-title">
-            Software Engineer - Graduate Student Developer
+            Software Engineer - Office of Water Programs
           </h4>
           <p style={{fontSize:"16px"}}>
-            Office of Water Programs, California
+            Sacramento, California<br />
+            2023 - present
           </p>
         </VerticalTimelineElement>
 
@@ -35,12 +36,10 @@ function Experience() {
           icon={<SchoolIcon />}
         >
           <h4 className="vertical-timeline-element-title">
-            Sacramento State University, California
+            Sacramento State University
           </h4>
-          <h5 className="vertical-timeline-element-subtitle">
-            Master's Degree
-          </h5>
-          <p style={{fontSize:"16px"}}>Computer Science.</p>
+          <p style={{fontSize:"16px"}}>Master's Degree ins Computer Science<br/>Sacramento, California<br />
+          2022 - present</p>
         </VerticalTimelineElement>
 
         <VerticalTimelineElement
@@ -54,7 +53,8 @@ function Experience() {
           </h4>
 
           <p style={{fontSize:"16px"}}>
-            Hyderabad, India
+            Hyderabad, India<br />
+            2020 - 2022
           </p>
         </VerticalTimelineElement>
 
@@ -68,7 +68,8 @@ function Experience() {
             Software Engineer - JK Technosoft
           </h4>
           <p style={{fontSize:"16px"}}>
-            Hyderabad, India
+            Hyderabad, India<br />
+            2019 - 2020
           </p>
         </VerticalTimelineElement>
 
@@ -82,7 +83,8 @@ function Experience() {
             Associate Engineer - Virtusa
           </h4>
           <p style={{fontSize:"16px"}}>
-            Hyderabad, India
+            Hyderabad, India<br />
+            2017 - 2019
           </p>
         </VerticalTimelineElement>
 
@@ -93,10 +95,12 @@ function Experience() {
           icon={<SchoolIcon />}
         >
           <h4 className="vertical-timeline-element-title">
-            CVR College of Engineering - India
+            CVR College of Engineering
           </h4>
           <p style={{fontSize:"16px"}}>
-            Bachelor's Degree
+            Bachelor's Degree in Information Technology<br />
+            Hyderabad, India<br />
+            2013 - 2017
           </p>
         </VerticalTimelineElement>
 
