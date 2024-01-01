@@ -13,9 +13,9 @@ function Home() {
         <div className="prompt">
           <p>I am a graduate student in computer science at <a href="https://www.csus.edu/" style={{color:"steelblue", textDecoration:"none"}} target="_blank">Sacramento State University </a>
           actively seeking internship opportunities. <br /><br />
-          Currently employed as a software engineer at
+          Working as a student software engineer at
           <a href="https://www.owp.csus.edu/" style={{color:"steelblue", textDecoration:"none"}} target="_blank"> Office of Water Programs</a> in California, 
-          I am a dedicated and passionate developer eager to contribute to and create impactful technological solutions.</p>
+          I am a dedicated and passionate developer eager to learn and contribute to impactful technological solutions.</p>
 
           <a href="https://www.linkedin.com/in/sasi-kiran-kanduri-692a73a9/" target="__blank"><LinkedInIcon /></a>
           <a href="https://github.com/shashikanduri" target="_blank"><GithubIcon /></a>
