@@ -19,7 +19,7 @@ function Home() {
 
           <a href="https://www.linkedin.com/in/sasi-kiran-kanduri-692a73a9/" target="__blank"><LinkedInIcon /></a>
           <a href="https://github.com/shashikanduri" target="_blank"><GithubIcon /></a>
-          <a href="/sasi_kanduri_resume.pdf" target="_blank"><NoteRounded /></a>
+          <a href="/website-sasikanduri/sasi_kanduri_resume.pdf" target="_blank"><NoteRounded /></a>
 
         </div>
       </div>
