@@ -2,9 +2,7 @@ import React from 'react'
 
 function Projects() {
   return (
-    <div className = 'projects'>
-      
-    </div>
+    <div className = 'projects'></div>
   )
 }
 
