@@ -15,11 +15,7 @@ function Navbar() {
   return (
     <div className="navbar" id={expandNavbar ? "open" : "close"}>
       <div className="toggleButton">
-        <button
-          onClick={() => {
-            setExpandNavbar((prev) => !prev);
-          }}
-        >
+        <button onClick={() => { setExpandNavbar((prev) => !prev); }}>
           <ReorderIcon />
         </button>
       </div>

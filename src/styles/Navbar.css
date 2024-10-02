@@ -16,7 +16,11 @@
   color: white;
   text-decoration: none;
   margin: 20px;
-  font-size: 18px;
+  font-size: 22px;
+}
+
+.navbar a:hover {
+  color: steelblue; 
 }
 
 .toggleButton {

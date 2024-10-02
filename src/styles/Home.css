@@ -22,12 +22,12 @@
 }
 .about p{
   font-family: 'Helvetica Neue';
-  font-size: 18px;
+  font-size: 22px;
 }
 
 #name{
   font-family: 'Helvetica Neue';
-  font-size: 38px;
+  font-size: 42px;
 }
 
 .about .prompt {
@@ -40,23 +40,27 @@
   color: white;
 }
 
-/* .skills {
+.prompt svg:hover {
+  color: steelblue; 
+}
+
+.skills {
   font-size: 35px;
   width: 100%;
   display: flex;
   justify-content: center;
   flex-direction: column;
   align-items: center;
-} */
+}
 
-/* .skills h1 {
+.skills h1 {
   color: #3e497a;
-} */
+} 
 
-/* .skills .list {
+ .skills .list {
   list-style: none;
   width: 60%;
-} */
+}
 
 .list span {
   font-size: 20px;
@@ -73,14 +77,14 @@
     width: 80%;
   }
 
-  /* .skills {
+  .skills {
     text-align: center;
   } */
   .list {
     padding: 0;
   }
 
-  /* .skills h2 {
+  .skills h2 {
     font-size: 30px;
-  } */
+  } 
 }

@@ -19,7 +19,7 @@ function Experience() {
           icon={<WorkIcon />}
         >
           <h4 className="vertical-timeline-element-title">
-            Software Engineer - Office of Water Programs
+            Software Engineer Intern - Office of Water Programs
           </h4>
           <p style={{fontSize:"16px"}}>
             Sacramento, California<br />
@@ -30,7 +30,7 @@ function Experience() {
 
         <VerticalTimelineElement
           className="vertical-timeline-element--education"
-          iconStyle={{ background: "#3e497a", color: "#fff" }}
+          iconStyle={{ background: "rgb(122 85 62)", color: "#fff" }}
           icon={<SchoolIcon />}
         >
           <h4 className="vertical-timeline-element-title">
@@ -46,7 +46,7 @@ function Experience() {
           icon={<WorkIcon />}
         >
           <h4 className="vertical-timeline-element-title">
-            Full Stack Engineer - Aaseya IT Services
+            Senior Software Engineer - Aaseya IT Services
           </h4>
 
           <p style={{fontSize:"16px"}}>
@@ -85,7 +85,7 @@ function Experience() {
 
         <VerticalTimelineElement
           className="vertical-timeline-element--work"
-          iconStyle={{ background: "#3e497c", color: "#fff" }}
+          iconStyle={{ background: "rgb(122 85 62)", color: "#fff" }}
           icon={<SchoolIcon />}
         >
           <h4 className="vertical-timeline-element-title">
