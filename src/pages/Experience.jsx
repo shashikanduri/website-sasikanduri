@@ -11,6 +11,7 @@ import "../styles/Home.css";
 function Experience() {
   return (
     <div className="experience">
+      
       <VerticalTimeline lineColor="#3e497a">
 
         <VerticalTimelineElement
@@ -19,11 +20,25 @@ function Experience() {
           icon={<WorkIcon />}
         >
           <h4 className="vertical-timeline-element-title">
-            Software Engineer Intern - Office of Water Programs
+            Applications Developer at Office of Water Programs
           </h4>
           <p style={{fontSize:"16px"}}>
             Sacramento, California<br />
-            2023 - present
+            2025 - present
+          </p>
+        </VerticalTimelineElement>
+
+        <VerticalTimelineElement
+          className="vertical-timeline-element--education"
+          iconStyle={{ background: "#3e497a", color: "#fff" }}
+          icon={<WorkIcon />}
+        >
+          <h4 className="vertical-timeline-element-title">
+            Applications Developer Intern at Office of Water Programs
+          </h4>
+          <p style={{fontSize:"16px"}}>
+            Sacramento, California<br />
+            2023 - 2025
           </p>
         </VerticalTimelineElement>
 
@@ -37,7 +52,7 @@ function Experience() {
             Sacramento State University
           </h4>
           <p style={{fontSize:"16px"}}>Master's Degree ins Computer Science<br/>Sacramento, California<br />
-          2022 - present</p>
+          2022 - 2024</p>
         </VerticalTimelineElement>
 
         <VerticalTimelineElement
@@ -46,14 +61,15 @@ function Experience() {
           icon={<WorkIcon />}
         >
           <h4 className="vertical-timeline-element-title">
-            Senior Software Engineer - Aaseya IT Services
+            Software Engineer at Aaseya
           </h4>
 
           <p style={{fontSize:"16px"}}>
             Hyderabad, India<br />
-            2020 - 2022
+            2019 - 2022
           </p>
         </VerticalTimelineElement>
+
 
         <VerticalTimelineElement
           className="vertical-timeline-element--work"
@@ -61,21 +77,7 @@ function Experience() {
           icon={<WorkIcon />}
         >
           <h4 className="vertical-timeline-element-title">
-            Software Engineer - JK Technosoft
-          </h4>
-          <p style={{fontSize:"16px"}}>
-            Hyderabad, India<br />
-            2019 - 2020
-          </p>
-        </VerticalTimelineElement>
-
-        <VerticalTimelineElement
-          className="vertical-timeline-element--work"
-          iconStyle={{ background: "#3e497a", color: "#fff" }}
-          icon={<WorkIcon />}
-        >
-          <h4 className="vertical-timeline-element-title">
-            Associate Engineer - Virtusa
+            Software Engineer at Virtusa
           </h4>
           <p style={{fontSize:"16px"}}>
             Hyderabad, India<br />
