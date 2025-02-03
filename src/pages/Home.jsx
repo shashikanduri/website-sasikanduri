@@ -14,7 +14,7 @@ function Home() {
           <p>
             
             I am an Applications Developer at <a href="https://www.owp.csus.edu/" style={{color:"steelblue", textDecoration:"none"}} target="_blank"> Office of Water Programs</a> in California. 
-            I am a dedicated and passionate developer eager to learn and contribute to impactful technological solutions.
+            <br />
             I am Master's graduate in computer science at <a href="https://www.csus.edu/" style={{color:"steelblue", textDecoration:"none"}} target="_blank">Sacramento State University </a>
             actively seeking for SDE/ML roles. <br /><br />
             </p>
